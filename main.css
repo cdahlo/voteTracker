@@ -1,0 +1,21 @@
+html {
+  position: relative;
+}
+script {
+  display: line;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+#choice1 {
+  max-width: 400px;
+  max-width: 400px;
+  border-radius: 10%;
+}
+
+#choice2 {
+  max-width: 400px;
+  max-width: 400px;
+  border-radius: 10%;
+}
